@@ -1,0 +1,13 @@
+name: text
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - snorkel
+  - tokenizers=0.10.1
+  - transformers=4.6.1
+  - sentence-transformers
+  - notebook
+  - jupyter
+  - matplotlib
+  - slycot
